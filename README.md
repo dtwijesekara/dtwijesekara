@@ -158,7 +158,8 @@ My work spans **cybersecurity**, **automated trading systems**, and **software d
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88,0f3460,1b2838,0d1b2a,0a0a0a&height=140&section=footer&text=Open+to+collaborate+%E2%80%94+Security+%26+Trading+Systems&fontSize=17&fontColor=ffffff&fontAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0a0a0a,0d1b2a,1b2838,0f3460,00ff88&height=230&text=Open%20to%20Collaborate&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+
 
 <br/>
 
