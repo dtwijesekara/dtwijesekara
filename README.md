@@ -11,8 +11,8 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dasunwijesekara.me-00ff88?style=for-the-badge&logo=googlechrome&logoColor=red&labelColor=0d1117)](https://dasunwijesekara.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/dtwijesekara/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117)]([https://twitter.com/](https://x.com/DTWijesekara))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)]([https://www.linkedin.com/in/dtwijesekara/])
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117)](https://x.com/DTWijesekara))
 [![CyberRawana](https://img.shields.io/badge/CyberRawana_Labs-Visit-00ff88?style=for-the-badge&logo=hackthebox&logoColor=red&labelColor=0d1117)](https://dasunwijesekara.me/cyberrawana-labs)
 
 <br/>
