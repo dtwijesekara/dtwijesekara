@@ -157,6 +157,6 @@ My work spans **cybersecurity**, **automated trading systems**, and **software d
 
 <br/>
 
-**Crafted with 🛡️ from Sri Lanka 🇱🇰 — [Dasun Thejana Wijesekara](https://dasunwijesekara.me)**
+**Crafted with CyberRawana Labs🛡️from Sri Lanka 🇱🇰 — [Dasun Thejana Wijesekara](https://dasunwijesekara.me)**
 
 </div>
