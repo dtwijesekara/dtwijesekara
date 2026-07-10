@@ -10,10 +10,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dasunwijesekara.me-00ff88?style=for-the-badge&logo=googlechrome&logoColor=red&labelColor=0d1117)](https://dasunwijesekara.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dasunwijesekara.me-008080?style=for-the-badge&logo=googlechrome&logoColor=red&labelColor=0d1117)](https://dasunwijesekara.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/dtwijesekara/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117)](https://x.com/DTWijesekara)
-[![CyberRawana](https://img.shields.io/badge/CyberRawana_Labs-Visit-00ff88?style=for-the-badge&logo=hackthebox&logoColor=red&labelColor=0d1117)](https://dasunwijesekara.me/cyberrawana-labs)
+[![CyberRawana](https://img.shields.io/badge/CyberRawana_Labs-Visit-008080?style=for-the-badge&logo=hackthebox&logoColor=red&labelColor=0d1117)](https://dasunwijesekara.me/cyberrawana-labs)
 
 <br/>
 
@@ -112,12 +112,6 @@ My work spans **cybersecurity**, **automated trading systems**, and **software d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dtwijesekara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&border_radius=10" height="180" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtwijesekara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&border_radius=10" height="180" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com/?user=dtwijesekara&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border_radius=10" />
 
 <br/><br/>
@@ -132,10 +126,10 @@ My work spans **cybersecurity**, **automated trading systems**, and **software d
 ## 🔨 Currently Building
 
 ```text
-🔐  Forex Analysis Engine    ████████████████░░░░  80%   Python + Streamlit + SMC Logic
-🛡️  CyberRawana Toolkit      ██████████░░░░░░░░░░  50%   Recon + Auditing Suite
+🔐  Forex Analysis Engine    ████████████████░░░░  80%   TypeScript + Fundamentals
+🛡️  Student Toolkit          ██████████░░░░░░░░░░  50%   Recon + Auditing Suite
 🤖  EA Trading Bot           ████████░░░░░░░░░░░░  40%   MQL5 + Neo Wave Strategy
-🌐  Portfolio v2             ██████░░░░░░░░░░░░░░  30%   dasunwijesekara.me Rebuild
+🌐  Portfolio v9             ██████░░░░░░░░░░░░░░  30%   dasunwijesekara.me Rebuild
 ```
 
 ---
@@ -158,7 +152,7 @@ My work spans **cybersecurity**, **automated trading systems**, and **software d
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0a0a0a,0d1b2a,1b2838,0f3460,00ff88&height=230&text=Open%20to%20Collaborate&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=Black&text=Open%20to%20Collaborate&section=footer&reversal=false&fontAlignY=64&fontSize=48&descAlignY=58&fontColor=FFFFFF" />
 
 
 <br/>
