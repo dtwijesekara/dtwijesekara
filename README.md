@@ -37,9 +37,9 @@ My work spans **cybersecurity**, **automated trading systems**, and **software d
 
 - 🎓 Studying **Computer Security** at NSBM Green University / University of Plymouth
 - 🛡️ Founder of **CyberRawana Labs** — independent security solutions & tooling
-- 📈 Building a **Forex Fundamental Analysis Engine** with Smart Money Concepts
+- 📈 Building a **Forex Fundamental Analysis Engine** with Fundamnetal theories
 - 🤖 Developing **Expert Advisors (EAs)** for automated trading on MetaTrader 5
-- 🌊 Deep into **Neo Wave Theory** & **ICT Smart Money Concepts**
+- 🌊 Deep into **Neo Wave Theory** & **Fiancial markets Fundamnetal Theories**
 - ⚡ Fun fact: If I'm not coding, I'm probably optimizing in GTA Online or dying in *Sekiro*
 
 <br clear="right"/>
@@ -97,10 +97,10 @@ My work spans **cybersecurity**, **automated trading systems**, and **software d
 
 | 📦 Project | 💡 Description | 🛠 Stack |
 |:-----------|:--------------|:---------|
-| **Forex Fundamental Analysis Engine** | Economic event scoring engine with SMC & Neo Wave integration | `Python` `Streamlit` `Pandas` |
+| **Forex Fundamental Analysis Engine** | Economic event scoring engine with forex fundamnetals theory intigration | `TypeScript` `PLpgSQL` `CSS` `JavaScript` |
 | **CyberRawana Toolkit** | Security auditing, recon & vulnerability tooling suite | `Python` `Bash` `Kali Linux` |
-| **EA Trading Bot** | Automated Expert Advisor using ICT + Neo Wave logic | `MQL5` `Python` |
-| **Network Recon Suite** | Custom network scanner and port/service mapper | `Python` `Nmap` `Scapy` |
+| **AlgoTradingBot** | Fully automated ALGO Trading bot (Core Logic - Elliott Waves theory) | `Python` |
+| **IT Assest Managnment** | A Windows Forms application for tracking IT assets and running vulnerability audits against a SQL Server database. | `C#` `TSQL` |
 
 > 🔒 *Some projects are private or in active development. Reach out directly for collaboration.*
 
